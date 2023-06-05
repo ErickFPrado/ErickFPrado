@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Erick Prado</b></h1>
 
 <p align="center">
-  <a href:https://readme-typing-svg.demolab.com/?lines=Computer+Science+studente;Always+learning+new+things;>
+  <a href:'https://readme-typing-svg.demolab.com/?lines=Computer+Science+studente;Always+learning+new+things;'>
 </p>
 
 
